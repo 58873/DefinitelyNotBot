@@ -1,2 +1,2 @@
-# DefinitelyNotBot
-A Discord bot coded in Discord.JS, hosted using Heroku.
+# My first bot
+To make a bot you would need to use the basic discord bot index
